@@ -1,10 +1,7 @@
 
-[[Module2]]
-
-
-[[Logistic Regression as a Neural Network]]
-[[Python and Vectorization]]
-
-
+[[Neural Networks Basics]]
 [[Shallow Neural Networks]]
 [[Neural Networks Basics]]
+[[Neural Networks Basics]]
+
+
